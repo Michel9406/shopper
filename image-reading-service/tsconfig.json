@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "target": "ES2020", // Define a versão de ECMAScript para a qual o TypeScript deve compilar
-    "module": "ES2020", // Use ES Modules
+    "module": "CommonJS", // Use ES Modules
     "moduleResolution": "node",
     "outDir": "./dist", // Pasta de saída para os arquivos compilados
     "rootDir": "./src", // Pasta de origem dos arquivos TypeScript
